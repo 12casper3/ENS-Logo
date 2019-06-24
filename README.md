@@ -1,5 +1,11 @@
+[Download Logo](https://github.com/12casper3/ENS-Logo/releases/latest)
+===============
+[Here](https://github.com/12casper3/ENS-Logo/releases/latest)
+
+
 Exported logos
 ==============
+
 For easy use, the different versions of the logo are released in different file formats.
 The possible combinations are:
 * Color - Black
